@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/roseannacador-lgtm/BANCO/issues"
   },
-  "homepage": "https://github.com/roseannacador-lgtm/BANCO#readme"
+  "homepage": "https://github.com/roseannacador-lgtm/BANCO#readme",
+  "dependencies": {
+    "pg": "^8.23.0",
+    "prompt-sync": "^4.2.0"
+  }
 }
